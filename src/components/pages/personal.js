@@ -51,7 +51,7 @@ const About=()=>{
         </ul>
         
         <h3>Education</h3>
-        <p id='edu'>2014-2018 BSU Economic faculty, Economist-analytic </p>
+        <p id='edu'>2014-2018 BSU Economic faculty, Economist-analyst </p>
         <Stack/>
         <Link/>
 
