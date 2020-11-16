@@ -50,7 +50,7 @@ const About=()=>{
 
         </ul>
         
-        <h2>Education</h2>
+        <h3>Education</h3>
         <p id='edu'>2014-2018 BSU Economic faculty, Economist-analytic </p>
         <Stack/>
         <Link/>
