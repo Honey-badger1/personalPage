@@ -1,6 +1,7 @@
 import React from 'react';
 import './pages.css';
 import Stack from '../tech-stack';
+import Link from '../links';
 const About=()=>{
     return(
         <div>
@@ -16,7 +17,7 @@ const About=()=>{
                 AIS Novations<br/>
                 During the last month I have been working on exam-project for GitHub activity analytics (desktop/web application).
                Desktop part is bild on Electron and web is on React using MongoDB. Roles: FullStack dev, PM, DevOps. 
-               Most of my duties connected with development of the desktop app, but also include project management, making deсisions on how it should work and to how deploy it on company's server.
+               Most of my duties connected with development of the desktop app, but also include some project management, deployment on company's server.
               How does it works: you can examin any repo located on your PC and get statistics common and time interval restricted on stack used, % of changes made by each contributor, each commit. 
                 </span>
             </li>
@@ -49,8 +50,10 @@ const About=()=>{
 
         </ul>
         
-
+        <h2>Education</h2>
+        <p id='edu'>2014-2018 BSU Economic faculty, Economist-analytic </p>
         <Stack/>
+        <Link/>
 
         </div>
     )
