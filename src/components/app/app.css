@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(3, 3, 15);
+}
+p, a, span, li{
+    color:white;
+}
+a:hover{
+    color:rgb(10, 64, 182);
+    
+}

@@ -1,0 +1,11 @@
+ul{
+    list-style:none;
+  
+}
+h2, h3{
+    text-align:center;
+    color:rgb(58, 60, 184);
+}
+#contacts{
+    text-align: center;
+}

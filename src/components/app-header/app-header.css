@@ -1,0 +1,12 @@
+.link, a{
+    text-decoration: none;
+    margin-right:3%;
+
+
+}
+.appHeader{
+    display: flex;
+    justify-content: flex-end;
+ 
+    
+}
